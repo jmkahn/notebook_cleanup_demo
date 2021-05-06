@@ -1,0 +1,3 @@
+# don't upload notebook results to git 
+*.png
+*.txt
